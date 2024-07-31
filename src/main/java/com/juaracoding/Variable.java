@@ -4,12 +4,6 @@ public class Variable {
 
         public static void main(String[] args){
 
-                byte age = 127;
-                short stock = 9999;
-                float price = 10000.55f;
-                double totalPrice = 3000000000.99d;
-                long total = 4000000000L;
-                int cartTotal = 1000;
 
                 char gender = 'L';
                 char predikat = 'A';
