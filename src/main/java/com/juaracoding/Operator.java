@@ -1,5 +1,8 @@
 package com.juaracoding;
 
+import java.sql.SQLOutput;
+import java.util.Scanner;
+
 public class Operator {
 
     public static void main(String[] args) {
@@ -32,6 +35,10 @@ public class Operator {
         a = 10;
         b = 12;
         System.out.println(a & b); // Biner = 1000
+
+
+
+
 
 
 
